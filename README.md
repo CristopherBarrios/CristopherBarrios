@@ -1,7 +1,11 @@
 ### Sup 👋
 ### Un poco de mi
 
+Me gusta leer libros, meditar, hacer ejercicio, salir a caminar y romper mis limites.
 ![naruto](./descargar.gif)
+###Narutooooooo
+
+:panda_face:Conocete a ti mismo
 <!--
 **CristopherBarrios/CristopherBarrios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
