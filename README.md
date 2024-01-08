@@ -2,7 +2,7 @@
 ### Un poco de mi
 
 Me gusta leer libros, meditar, hacer ejercicio, salir a caminar y romper mis limites.
-![naruto](./giphy (1).gif)
+![naruto](./giphy(1).gif)
 ### Un abrasitoooooo
 
 :panda_face:Conocete a ti mismo
