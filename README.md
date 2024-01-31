@@ -4,6 +4,7 @@
 Me gusta leer libros, meditar, hacer ejercicio, salir a caminar y romper mis limites.
 ![naruto](./giphy(1).gif)
 ### Un abrasitoooooo
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G6TYGHX)
 
 :panda_face:Conocete a ti mismo
 <!--
